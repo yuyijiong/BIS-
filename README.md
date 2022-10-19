@@ -5,6 +5,8 @@ BIS序列标注
 2014_processed  是经过处理的训练集，已经转换为BIS标注
 
 2014_processed_test  是经过处理的测试集
+下载地址
+https://cloud.tsinghua.edu.cn/published/%E6%99%BA%E8%83%BD%E4%BF%A1%E6%81%AF%E5%AE%9E%E9%AA%8C1
 
 sgns.target.word-word.iter5 预训练词向量 语料来自百度百科（文件太大，不在此文件夹里）
 
